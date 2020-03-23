@@ -10,3 +10,7 @@ http://www.theodinproject.com/courses/web-development-101/lessons/html-css
 
 Project reflection:
 
+It was easier than I thought because google's homepage is as clean and simple 
+as it goes. I did most work without having to look up codes, and I'm feeling 
+more and more confident with my web development skills. For my first project,
+I'm going to say that it went well.
